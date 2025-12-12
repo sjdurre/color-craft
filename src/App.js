@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem" }}>
-      <h1 style={{ color: textColor }}>ColorCraft: RGB Color Generator</h1>
+      <h1 style={{ color: textColor }}>ColorCraft: RGB/Hex Color Generator</h1>
 
       <h2 style={{ color: textColor }}>Current Color</h2>
       <p style={{ fontSize: "1.3rem", color: textColor }}>

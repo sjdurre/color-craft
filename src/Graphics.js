@@ -4,15 +4,16 @@ import { Chart as ChartJS, CategoryScale, LinearScale, BarElement } from "chart.
 
 ChartJS.register(CategoryScale, LinearScale, BarElement);
 
-function Graphics({ colorCount }) {
-
+function Graphics({ colorCount, barColor, textColor }) {
   const data = {
     labels: ["Colors Generated"],
     datasets: [
       {
         label: "Random Colors Generated",
         data: [colorCount],
-        backgroundColor: ["rgba(255, 99, 132, 0.6)"],
+        backgroundColor: [barColor],
+        borderColor: textColor,
+        borderWidth: 2,
       },
     ],
   };

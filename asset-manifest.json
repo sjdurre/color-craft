@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-craft/static/css/main.e6c13ad2.css",
+    "main.js": "/color-craft/static/js/main.c91b9de5.js",
+    "static/js/453.fa29e91f.chunk.js": "/color-craft/static/js/453.fa29e91f.chunk.js",
+    "index.html": "/color-craft/index.html",
+    "main.e6c13ad2.css.map": "/color-craft/static/css/main.e6c13ad2.css.map",
+    "main.c91b9de5.js.map": "/color-craft/static/js/main.c91b9de5.js.map",
+    "453.fa29e91f.chunk.js.map": "/color-craft/static/js/453.fa29e91f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c91b9de5.js"
+  ]
+}
